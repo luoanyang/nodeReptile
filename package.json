@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/luoanyang/nodeReptile.git"
   },
-
+  "script":{
+    "start":"node app.js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
