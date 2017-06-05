@@ -1,0 +1,25 @@
+{
+  "name": "nodereptile",
+  "version": "1.0.0",
+  "description": "nodejs爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoanyang/nodeReptile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoanyang/nodeReptile/issues"
+  },
+  "homepage": "https://github.com/luoanyang/nodeReptile#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "superagent": "^3.5.2",
+    "superagent-charset": "^0.1.1"
+  }
+}
