@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/luoanyang/nodeReptile.git"
   },
-  "script":{
+  "scripts":{
     "start":"node app.js"
   },
   "author": "",
